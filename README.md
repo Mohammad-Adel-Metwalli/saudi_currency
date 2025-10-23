@@ -19,9 +19,9 @@ dependencies:
 
 Install it by running `flutter pub get` in your terminal.
 
-![Package Example](https://drive.google.com/file/d/1bo8HoyEcJrfIbo5JbkiTORX9nZpBHg6Z/view?usp=sharing)
-## Usage
+![Saudi Currency Package Example](Assets/Images/Saudi-Currency-package.png)
 
+## Usage
 Import the package and use the `SaudiCurrency` widget.
 
 ```dart
