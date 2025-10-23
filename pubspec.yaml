@@ -1,7 +1,7 @@
 name: saudi_currency
 description: "A new Flutter package project."
 version: 0.0.1
-#homepage:
+repository: https://github.com/Mohammad-Adel-Metwalli/saudi_currency
 
 environment:
   sdk: ^3.8.0
