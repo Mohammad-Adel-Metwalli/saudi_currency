@@ -18,6 +18,8 @@ dependencies:
 ```
 
 Install it by running `flutter pub get` in your terminal.
+
+![Package Example](https://drive.google.com/file/d/1bo8HoyEcJrfIbo5JbkiTORX9nZpBHg6Z/view?usp=sharing)
 ## Usage
 
 Import the package and use the `SaudiCurrency` widget.
