@@ -1,4 +1,3 @@
-TODO: Add your license here.
 Purpose
 Pub.dev facilitates sharing of Dart packages through publication. It is central to this service that consumers of packages can trust that their dependencies do not suddenly disappear. Thus, once a package has been published it typically cannot be unpublished or deleted, with the exception of the circumstances described below. This applies to all versions of a published package. If something has been published that is no longer relevant or maintained, as a publisher, you can mark the package as discontinued, which will make the package disappear from searches (but keep it available to those that already depend on it).
 
