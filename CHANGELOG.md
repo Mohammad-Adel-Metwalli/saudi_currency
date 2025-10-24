@@ -1,9 +1,10 @@
-## 0.0.3 - 2025-10-23
+## 0.0.4 - 2025-10-24
 
 - Initial release.
 - Added: Basic Saudi currency utilities (formatting, parsing, and conversion helpers for SAR).
 - Added: Localization support for Arabic and English currency display.
 - Added: Unit tests for formatting and parsing logic.
 - Changed: Project scaffold and `pubspec.yaml` configuration.
+- Changed: Set the `Directionality` to `rtl` to ensure the currency symbol is correctly positioned.
 - Fixed: Rounding edge-cases for fractional values.
 - Notes: API is experimental and may change in future minor releases.

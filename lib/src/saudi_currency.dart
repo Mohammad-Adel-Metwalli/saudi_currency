@@ -25,24 +25,27 @@ class SaudiCurrency extends StatelessWidget
   @override
   Widget build(BuildContext context)
   {
-    return RichText(
-      text: TextSpan(
-        children: [
-          TextSpan(text: text, style: textStyle),
-          
-          TextSpan(text: ' '),
-          
-          TextSpan(
-            text: PackageConstants.saudiCurrency,
-            style: TextStyle(
-              fontFamily: PackageConstants.saudiRiyalFont,
-              fontWeight: fontWeightOfCurrency ?? FontWeight.normal,
-              package: 'saudi_currency',
-              fontSize: currencySize,
-              color: currencyColor,
+    return Directionality(
+      textDirection: TextDirection.rtl,
+      child: RichText(
+        text: TextSpan(
+          children: [
+            TextSpan(text: text, style: textStyle),
+
+            TextSpan(text: ' '),
+
+            TextSpan(
+              text: PackageConstants.saudiCurrency,
+              style: TextStyle(
+                fontFamily: PackageConstants.saudiRiyalFont,
+                fontWeight: fontWeightOfCurrency ?? FontWeight.normal,
+                package: 'saudi_currency',
+                fontSize: currencySize,
+                color: currencyColor,
+              ),
             ),
-          ),
-        ],
+          ],
+        ),
       ),
     );
   }

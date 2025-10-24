@@ -1,2 +1,2 @@
-library saudi_currency;
+library;
 export 'src/saudi_currency.dart';
