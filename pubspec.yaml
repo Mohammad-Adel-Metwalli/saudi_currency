@@ -1,6 +1,6 @@
 name: saudi_currency
 description: "A Flutter package for seamlessly displaying the Saudi Riyal currency symbol within your Flutter applications."
-version: 0.0.4
+version: 0.0.5
 repository: https://github.com/Mohammad-Adel-Metwalli/saudi_currency
 
 environment:
@@ -14,7 +14,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^6.0.0
+  flutter_lints: ^4.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
