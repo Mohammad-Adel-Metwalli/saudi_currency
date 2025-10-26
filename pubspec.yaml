@@ -4,7 +4,7 @@ version: 0.0.4
 repository: https://github.com/Mohammad-Adel-Metwalli/saudi_currency
 
 environment:
-  sdk: ^3.8.0
+  sdk: ^3.4.3
   flutter: ">=1.17.0"
 
 dependencies:
