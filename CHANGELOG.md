@@ -1,4 +1,4 @@
-## 0.0.5 - 2025-10-26
+## 0.0.6 - 2025-10-26
 
 - Initial release.
 - Added: Basic Saudi currency utilities (formatting, parsing, and conversion helpers for SAR).
