@@ -6,6 +6,6 @@
 - Added: Unit tests for formatting and parsing logic.
 - Changed: Project scaffold and `pubspec.yaml` configuration.
 - Changed: Set the `Directionality` to `rtl` to ensure the currency symbol is correctly positioned.
-- Changed: Updated Dart SDK constraint to `^3.4.3`.
+- Changed: Updated Dart SDK be suitable from `^3.4.0` to `^4.0.0`.
 - Fixed: Rounding edge-cases for fractional values.
 - Notes: API is experimental and may change in future minor releases.
